@@ -101,7 +101,6 @@ export default function PageTemplate({
           <MDXRenderer scope={{ Embed }}>{mdx.body}</MDXRenderer>
         </article>
         <Footer>
-
           <Separator />
           <Bio />
           <Separator />
